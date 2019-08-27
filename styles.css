@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+.profile {
+  padding-top: 5px;
+  border-radius: 100%;
+}
+
+.shopping-img {
+  height: 200px;
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+
+}
+.skills-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.email{
+  height: 200px;
+}
+p{
+  line-height: 2;
+}
+h1 {
+  line-height: 2;
+  color: #ff467e;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+  color: #ff467e;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #f12b6b;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.skills-class {
+
+  height: 200px;
+}
+.middle-container{
+  padding-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.subtitle{
+
+  font-weight: normal;
+}
+
+.top-container {
+  margin-top: 0;
+  background-color: #f6c7c7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 30px;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  width: 4%;
+  border-bottom: none;
+  margin: 100px auto;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.footer-link{
+  color: #ff467e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #973961;
+}
+.contact-me{
+  color: #ff467e;
+  width: 40%;
+  margin: 40px auto 40px;
+}
+.btn {
+  background-color: #ff467e; /* Pink */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+}
+.btn:hover {
+  background-color: #973961; /* Green */
+  color: white;
+}
+.bottom-container{
+  background-color: #f6c7c7;
+  padding: 50px 0 20px;
+
+  font-family: 'Montserrat', sans-serif;
+}
+.copyright{
+  color: #ff467e;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
